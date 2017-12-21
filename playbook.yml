@@ -15,4 +15,5 @@
       - gdebi
       - virtualbox-guest-dkms 
       - virtualbox-guest-utils 
+      - chromium-browser
     become: true
